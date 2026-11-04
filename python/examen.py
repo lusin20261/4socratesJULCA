@@ -1,0 +1,11 @@
+a=  input("Cual es tu pais faborito ")
+e=  input("Cuantos años tienes")
+m=  input (" aplicacion faborita")
+c=  input ("comida faborita")
+d=  input ("animal faborito ") 
+print ("tu pais faborito es peru tambien el mio") 
+print ("tengo 9 años ")
+print (" Mi aplica cion faborita es ROBLOX") 
+print ("Mi comida faborita es causa")
+print ("Mi animal faborito es una ninfa")
+
